@@ -1,0 +1,28 @@
+<ClojureResolveScheme>
+  <item key="com.wsscode.pathom3.connect.operation/defmutation" resolves-as="clojure.core/defn" />
+  <item key="compojure.core/defroutes" resolves-as="clojure.core/defn" />
+  <item key="com.fulcrologic.rad.attributes/defattr" resolves-as="clojure.core/defn" />
+  <item key="deftest" resolves-as="clojure.core/defn" />
+  <item key="cljs.core/defonce" resolves-as="clojure.core/def" />
+  <item key="nexus.core.ui.component/defnc" resolves-as="clojure.core/defn" />
+  <item key="nrl.ui.login-root/set-working" resolves-as="cljs.core/defn" />
+  <item key="taoensso.encore/when-let" resolves-as="clojure.core/let" />
+  <item key="com.fulcrologic.guardrails.core/&gt;defn" resolves-as="clojure.core/defn" />
+  <item key="com.wsscode.pathom.connect/defmutation" resolves-as="clojure.core/defn" />
+  <item key="fulcro.client.routing/defsc-router" resolves-as="clojure.core/defn" />
+  <item key="com.fulcrologic.fulcro.components/defsc" resolves-as="clojure.core/defn" />
+  <item key="mount.core/defstate" resolves-as="clojure.core/def" />
+  <item key="com.wsscode.pathom3.plugin/defplugin" resolves-as="clojure.core/defn" />
+  <item key="defsc" resolves-as="cljs.core/defn" />
+  <item key="promesa.core/let" resolves-as="clojure.core/let" />
+  <item key="com.wsscode.pathom.connect/defresolver" resolves-as="clojure.core/defn" />
+  <item key="fulcro.client.cards/defcard-fulcro" resolves-as="clojure.core/defn" />
+  <item key="crypticbutter.snoop/&gt;defn" resolves-as="clojure.core/defn" />
+  <item key="taoensso.encore/if-let" resolves-as="clojure.core/let" />
+  <item key="promenade.core/either-&gt;&gt;" resolves-as="clojure.core/-&gt;&gt;" />
+  <item key="com.wsscode.pathom3.connect.operation/defresolver" resolves-as="clojure.core/defn" />
+  <item key="hyperfiddle.rcf/deftest" resolves-as="clojure.test/deftest" />
+  <item key="activate" resolves-as="clojure.core/defn" />
+  <item key="fulcro.client.primitives/defsc" resolves-as="clojure.core/defn" />
+  <currentScheme>IDE</currentScheme>
+</ClojureResolveScheme>
