@@ -1,0 +1,93 @@
+<code_scheme name="Default" version="173">
+  <ClojureCodeStyleSettings>
+    <option name="alignBindingForms" value="true" />
+    <option name="oneSpaceLists" value="true" />
+    <option name="defaultOnlyIndent" value="true" />
+    <option name="indentCustomisations">
+      <map>
+        <entry key="bidi.verbose/branch" value="0" />
+        <entry key="bidi.verbose/leaf" value="0" />
+        <entry key="cljs.core/*" value="0" />
+        <entry key="cljs.core/+" value="0" />
+        <entry key="cljs.core/-" value="0" />
+        <entry key="cljs.core/-&gt;" value="0" />
+        <entry key="cljs.core/-&gt;&gt;" value="0" />
+        <entry key="cljs.core//" value="0" />
+        <entry key="cljs.core/=" value="0" />
+        <entry key="cljs.core/and" value="0" />
+        <entry key="cljs.core/assoc-in" value="0" />
+        <entry key="cljs.core/case" value="-1" />
+        <entry key="cljs.core/comp" value="0" />
+        <entry key="cljs.core/concat" value="0" />
+        <entry key="cljs.core/ex-info" value="0" />
+        <entry key="cljs.core/juxt" value="0" />
+        <entry key="cljs.core/let" value="-1" />
+        <entry key="cljs.core/merge" value="0" />
+        <entry key="cljs.core/not=" value="0" />
+        <entry key="cljs.core/or" value="0" />
+        <entry key="cljs.core/some-&gt;" value="0" />
+        <entry key="cljs.core/some-&gt;&gt;" value="0" />
+        <entry key="cljs.core/str" value="0" />
+        <entry key="cljs.spec.alpha/keys" value="0" />
+        <entry key="clojure.core/-&gt;" value="0" />
+        <entry key="clojure.core/-&gt;&gt;" value="0" />
+        <entry key="clojure.core/=" value="0" />
+        <entry key="clojure.core/and" value="0" />
+        <entry key="clojure.core/as-&gt;" value="0" />
+        <entry key="clojure.core/assoc" value="0" />
+        <entry key="clojure.core/comp" value="0" />
+        <entry key="clojure.core/concat" value="0" />
+        <entry key="clojure.core/conj" value="0" />
+        <entry key="clojure.core/dissoc" value="0" />
+        <entry key="clojure.core/doto" value="-1" />
+        <entry key="clojure.core/ex-info" value="0" />
+        <entry key="clojure.core/juxt" value="0" />
+        <entry key="clojure.core/merge" value="0" />
+        <entry key="clojure.core/not" value="0" />
+        <entry key="clojure.core/not=" value="0" />
+        <entry key="clojure.core/or" value="0" />
+        <entry key="clojure.core/some" value="0" />
+        <entry key="clojure.core/some-&gt;" value="0" />
+        <entry key="clojure.core/some-&gt;&gt;" value="0" />
+        <entry key="clojure.core/str" value="0" />
+        <entry key="clojure.core/zipmap" value="0" />
+        <entry key="clojure.set/union" value="0" />
+        <entry key="clojure.spec.alpha/and" value="0" />
+        <entry key="clojure.spec.alpha/cat" value="0" />
+        <entry key="clojure.spec.alpha/keys" value="0" />
+        <entry key="clojure.spec.alpha/merge" value="0" />
+        <entry key="clojure.spec.alpha/or" value="0" />
+        <entry key="clojure.spec.alpha/tuple" value="0" />
+        <entry key="com.fulcrologic.fulcro.algorithms.denormalize/db-&gt;tree" value="0" />
+        <entry key="com.fulcrologic.fulcro.components/computed" value="0" />
+        <entry key="com.yetanalytics.squuid.uuid/make-squuid" value="0" />
+        <entry key="crux.api/entity" value="0" />
+        <entry key="fulcro.client.routing/defrouter" value="-1" />
+        <entry key="helix.core/$" value="1000" />
+        <entry key="malli.util/merge" value="0" />
+        <entry key="meta-merge.core/meta-merge" value="-1" />
+        <entry key="metex.sample-test/deftest" value="2" />
+        <entry key="metex.ui.utils/&lt;|" value="0" />
+        <entry key="nexus.core.domain.workflow.core/merge-workflow-maps" value="0" />
+        <entry key="nexus.core.infrastructure.keycloak/-&gt;credential-fn" value="0" />
+        <entry key="nexus.core.infrastructure.middleware.pathom-middleware/install-middleware" value="0" />
+        <entry key="nexus.core.interop.ui.material-ui-ws/styled" value="0" />
+        <entry key="nexus.core.model.cmmn/find-task" value="0" />
+        <entry key="nexus.core.model.cmmn/start-case!" value="0" />
+        <entry key="nexus.core.model/as-&gt;&gt;" value="0" />
+        <entry key="nexus.core.model/sorted-map" value="0" />
+        <entry key="nexus.core.ui.fragment/ui-label-value" value="0" />
+        <entry key="nexus.core.ui.html5-routing/route-to!" value="0" />
+        <entry key="promenade.core/either-&gt;&gt;" value="0" />
+      </map>
+    </option>
+  </ClojureCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
+  <codeStyleSettings language="Groovy">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
